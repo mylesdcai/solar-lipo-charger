@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Solar LiPo Charger Footprints")(type KiCad)(uri "${KIPRJMOD}/Solar LiPo Charger Footprints")(options "")(descr ""))
+)

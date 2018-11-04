@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Solar LiPo Charger")(type Legacy)(uri "/Users/mylescai/Documents/KiCad/Solar LiPo Charger/Solar LiPo Charger.lib")(options "")(descr ""))
+  (lib (name "LT3652 LiPo Board")(type Legacy)(uri "/Users/mylescai/Documents/KiCad/LT3652 LiPo Board/LT3652 LiPo Board/LT3652 LiPo Board.lib")(options "")(descr ""))
+)
